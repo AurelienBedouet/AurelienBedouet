@@ -1,8 +1,8 @@
 ### Bonjour 👋
 
 - Je m'appelle Aurélien, j'ai 34 ans et j'habite aux Sables d'Olonne.
-- Je suis très curieux, ouvert et je suis une véritable éponge.
-- J'ai débuté une formation de développeur Front end à la Roche sur Yon en avril 2021.
-- Après cette formation, je veux apprendre plus en profondeur le language javascript pour devenir un développeur web plus complet dans un premier temps.
-- Les opportunités dans le mileu du web me paraissent infinies et j'ai hâte d'y évoluer rapidement.
-- Quand je ne suis pas en train de penser flexbox ou media queries on peut me trouver sur les terrains de golf autour des Sables.
+- Je suis quelqu'un de très curieux, altruiste et toujours partant pour apprendre de nouvelles choses.
+- En reconversion, j'ai débuté une formation de développeur Front end à la Roche sur Yon en avril 2021.
+- Sur le court terme j'aimerais avoir une vision générale du monde du développement web pour savoir vers quelle voie m'orienter. 
+- Les opportunités dans le mileu du web me paraissent infinies, surtout avec les nouvelles perspectives du Web 3.0, et j'ai hâte d'y évoluer rapidement.
+- Quand je ne suis pas en train d'apprendre de nouvelles compétences dans ce domaine, on peut me trouver sur les terrains de golf autour des Sables.
